@@ -18,6 +18,6 @@ app.py  : Streamlit app
 
 
 #### Graphdb with Langchain : 
-![Alt text](images/graphdb.png)
+![Alt text](../LLM-projects/images/graphdb.png)  
 
 
