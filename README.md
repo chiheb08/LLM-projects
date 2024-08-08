@@ -22,7 +22,12 @@ app.py  : Streamlit app
 
 
 PATH_FOLDER : graphdb 
-CREATE neo4j auradb instance from here LINK 
+
+
+CREATE neo4j auradb instance from [HERE](https://neo4j.com/cloud/platform/aura-graph-database/) 
+
+
+
 1. activate virtual environment :
  ```bash
     conda create --name LLM_GRAPH python=3.10 
