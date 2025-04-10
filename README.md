@@ -24,9 +24,18 @@ tools : tools are interfaces that an agent , or LLM can use to interact with the
 
 
 
+#### Phidata for building multi-modal agents :  
+PATH_FOLDER : phidata 
+
+```bash
+   python main.py
+```  
+
+
+
 
 #### Graphdb with Langchain : 
-![GRAPHDB](images/graphdb.png) +
+![GRAPHDB](images/graphdb.png) 
 
 PATH_FOLDER : graphdb 
 
